@@ -1,4 +1,5 @@
 # Projeto **Bibliomania** 
+Mesmo projeto de tópicos avançados de engenharia de software
 
 ## Integrantes:
 * Lucas Kerr do Amaral, RA: 22123032-9
