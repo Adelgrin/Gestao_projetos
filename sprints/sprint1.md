@@ -1,3 +1,9 @@
 # Definições Sprint 1
 
-[print primeira sprint](./sprint1.png)
+<img width="1482" height="1038" alt="image" src="https://github.com/user-attachments/assets/45c0de7a-cccb-4a9d-be5d-27cb67fd9b59" />
+
+## Definições:
+- Histórias que iremos entregar
+- Responsabilidades
+- Prazos
+- Print do Status do dia 07/03 do Kanban
