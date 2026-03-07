@@ -16,3 +16,6 @@ Mesmo projeto de tópicos avançados de engenharia de software
   👉 https://github.com/Adelgrin/Gestao_projetos
 - Trello: <br>
   👉 https://trello.com/b/7cYUsruL/bibliomania
+
+## Sprint 1 - Kanban
+[Link](https://github.com/Adelgrin/Gestao_projetos/blob/projeto/sprints/sprint1.md)
