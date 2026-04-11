@@ -78,7 +78,7 @@
 
 ---
 
-## Conclusão final
+## Justificativa
 
-**51 pts**
-A estimativa de 50 pontos foi atribuída principalmente devido à grande quantidade de histórias e subtarefas envolvidas, que abrangem múltiplos fluxos e funcionalidades dentro de uma mesma entrega. Essa concentração de várias demandas no backlog aumenta significativamente o esforço necessário para desenvolvimento, integração e testes.
+#### **51 pts**
+A estimativa de 51 pontos foi atribuída principalmente devido à grande quantidade de histórias e subtarefas envolvidas, que abrangem múltiplos fluxos e funcionalidades dentro de uma mesma entrega. Essa concentração de várias demandas no backlog aumenta significativamente o esforço necessário para desenvolvimento, integração e testes.
