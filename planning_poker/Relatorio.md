@@ -82,3 +82,6 @@
 
 #### **51 pts**
 A estimativa de 51 pontos foi atribuída principalmente devido à grande quantidade de histórias e subtarefas envolvidas, que abrangem múltiplos fluxos e funcionalidades dentro de uma mesma entrega. Essa concentração de várias demandas no backlog aumenta significativamente o esforço necessário para desenvolvimento, integração e testes.
+
+## Reflexão
+Durante a realização do Planning Poker, o grupo enfrentou dificuldades principalmente na divergência inicial das estimativas, já que cada integrante possuía uma percepção diferente sobre a complexidade e o esforço das histórias. O consenso foi alcançado por meio do diálogo e da justificativa das estimativas mais altas e mais baixas, permitindo que todos entendessem os diferentes pontos de vista e ajustassem suas percepções. Como principais aprendizados, destacam-se a importância do alinhamento prévio dos requisitos, da comunicação clara entre os membros do time e do valor da colaboração para chegar a estimativas mais realistas e consistentes.
