@@ -1,6 +1,6 @@
 # Resultados **planning poker**
 ---
-## \[HU-03\] Lista de livros cadastrados (baseline **3 pts**)
+## Caso de base \[HU-03\] Lista de livros cadastrados (baseline **3 pts**)
 ---
 
 ## \[HU-02\] Edição de Livro
