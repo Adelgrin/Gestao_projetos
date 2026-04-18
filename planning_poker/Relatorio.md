@@ -46,7 +46,7 @@
 ### fase 1
 ![fase1](./imagens/fase1hu10.png)
 
-## \[HU-11\] Buscca de material
+## \[HU-11\] Busca de material
 
 ### fase 1
 ![fase1](./imagens/fase1hu11.png)
