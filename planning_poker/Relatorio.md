@@ -29,6 +29,8 @@
 ### fase 2
 ![fase2](./imagens/fase2hu08.png)
 
+- Justificativa: O grupo inicialmente apresentou divergências, porém chegou a um consenso ao considerar a complexidade e a quantidade de regras de negócio envolvidas. Entre essas regras, destacam-se a verificação do cumprimento do prazo de devolução e o cálculo de multas nos casos em que o prazo estipulado é excedido, o que justifica a necessidade de uma abordagem mais estruturada para sua implementação.
+
 ## \[HU-09\] Renovação de emprestimo
 
 ### fase 1
@@ -36,6 +38,8 @@
 
 ### fase 2
 ![fase2](./imagens/fase2hu09.png)
+
+- Justificativa: O grupo inicialmente apresentou divergências, mas alcançou um consenso ao reconhecer a complexidade e o volume de regras de negócio envolvidas. Dentre essas regras, destaca-se a necessidade de verificar se a entrega do material foi realizada dentro do prazo estabelecido, aspecto essencial para garantir o correto funcionamento do processo.
 
 ## \[HU-10\] Visualização de emprestimo ativo
 
